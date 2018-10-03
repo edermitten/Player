@@ -12,6 +12,8 @@
 		D51CBFB0216443EB00479E1D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D51CBFAE216443EB00479E1D /* Main.storyboard */; };
 		D51CBFB2216443EC00479E1D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D51CBFB1216443EC00479E1D /* Assets.xcassets */; };
 		D51CBFB5216443EC00479E1D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D51CBFB3216443EC00479E1D /* LaunchScreen.storyboard */; };
+		D51CBFBE2165605B00479E1D /* super-mario-world.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D51CBFBC2165605B00479E1D /* super-mario-world.jpg */; };
+		D51CBFBF2165605B00479E1D /* super-mario-world-intro-snes.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D51CBFBD2165605B00479E1D /* super-mario-world-intro-snes.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		D51CBFB1216443EC00479E1D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D51CBFB4216443EC00479E1D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D51CBFB6216443EC00479E1D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D51CBFBC2165605B00479E1D /* super-mario-world.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "super-mario-world.jpg"; sourceTree = "<group>"; };
+		D51CBFBD2165605B00479E1D /* super-mario-world-intro-snes.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "super-mario-world-intro-snes.mp3"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +64,8 @@
 				D51CBFB1216443EC00479E1D /* Assets.xcassets */,
 				D51CBFB3216443EC00479E1D /* LaunchScreen.storyboard */,
 				D51CBFB6216443EC00479E1D /* Info.plist */,
+				D51CBFBD2165605B00479E1D /* super-mario-world-intro-snes.mp3 */,
+				D51CBFBC2165605B00479E1D /* super-mario-world.jpg */,
 			);
 			path = "Simple Player";
 			sourceTree = "<group>";
@@ -122,7 +128,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D51CBFBF2165605B00479E1D /* super-mario-world-intro-snes.mp3 in Resources */,
 				D51CBFB5216443EC00479E1D /* LaunchScreen.storyboard in Resources */,
+				D51CBFBE2165605B00479E1D /* super-mario-world.jpg in Resources */,
 				D51CBFB2216443EC00479E1D /* Assets.xcassets in Resources */,
 				D51CBFB0216443EB00479E1D /* Main.storyboard in Resources */,
 			);
